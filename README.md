@@ -1,5 +1,5 @@
 
-# Cryptocurrency Analysis Project
+#  "All That Glitters" - Cryptocurrency Analysis Project - Final Project 2021- Data Analysis Bootcamp -University of Western Australia
 ![banner](images/readmebanner.PNG)
 
 ## Introduction
