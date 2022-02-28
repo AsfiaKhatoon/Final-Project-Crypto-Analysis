@@ -47,11 +47,11 @@ Following are the tableau files published in Tableau Public
 
 1. Top currencies with ranking 2013-2018
 
-*[top currencies](https://public.tableau.com/views/popularcurrencies2018/Dashboard2?:language=en-GB&:display_count=n&:origin=viz_share_link)
+* [top currencies](https://public.tableau.com/views/popularcurrencies2018/Dashboard2?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
 2. Scatterplot correlation of BTC,TSLA,Gold
 
-*[scatterplot](https://public.tableau.com/views/Scatterplotcorrelation/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
+* [scatterplot](https://public.tableau.com/views/Scatterplotcorrelation/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
 3. Correlation between some famous cryptocurrencies
 
@@ -59,7 +59,7 @@ Following are the tableau files published in Tableau Public
 
 4. LSTM chart using actual and predicted data from csv file
 
-*[lstm](https://public.tableau.com/views/LSTMchart/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
+* [lstm](https://public.tableau.com/views/LSTMchart/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
 
 
@@ -73,7 +73,7 @@ Machine learning model was created and test and train data was scaled and saved 
 Prediction was applied using Linear regression and LSTM model
 here are the .ipynb files  for reference
 
-*[linear regression](model/prediction_Linearreg.ipynb)
+* [linear regression](model/prediction_Linearreg.ipynb)
 
 *[LSTM](model/LSTM.ipynb)
 
@@ -98,14 +98,14 @@ Step2 : Created an application in Elastic Beanstalk and configured it as per the
 
 please click the following link to view the app.
 
-*[awsappelasticbeans]
+* [awsappelasticbeans]()
 
 
 ## Requirements
 
 click on the below lik for requirements.txt
 
-*[requirements'](app/requirements.txt)
+* [requirements'](app/requirements.txt)
 
 
 # .................The End.....................
