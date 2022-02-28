@@ -99,6 +99,8 @@ Step2 : Created an application in Elastic Beanstalk and configured it as per the
 
 please click the following link to view the app.
 
+ Application name is ## All_That_Glitters
+
 * [AWS app Elastic Beanstalk](http://allthatglitters-env.eba-hpqmey4i.ap-southeast-2.elasticbeanstalk.com/index)
 
 
