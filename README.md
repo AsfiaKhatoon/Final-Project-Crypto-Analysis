@@ -18,10 +18,11 @@ the following folders were setup as suggested as I progressed with the project
 
 ## Data extraction
 
-Data is from 
-qandl
-kaggle (for historical dataset - Tableau analysis)
-and yahoo finance (yfinance)
+ Data was extracted from 
+
+  qandl
+  kaggle (for historical dataset - Tableau analysis)
+  yahoo finance (yfinance)
 
 ## Data transformation and loading
 
@@ -43,6 +44,22 @@ Step 7 : changed enpoint settings and deployed the ETL to AWS Lambda
 
 Data Analyis has been done using Tableau.
 Following are the tableau files published in Tableau Public
+
+1. Top currencies with ranking 2013-2018
+
+*[top currencies](https://public.tableau.com/views/popularcurrencies2018/Dashboard2?:language=en-GB&:display_count=n&:origin=viz_share_link)
+
+2. Scatterplot correlation of BTC,TSLA,Gold
+
+*[scatterplot](https://public.tableau.com/views/Scatterplotcorrelation/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
+
+3. Correlation between some famous cryptocurrencies
+
+*[corr matrix](https://public.tableau.com/views/correlation_matrixdashboard/Dashboard3?:language=en-GB&:display_count=n&:origin=viz_share_link)
+
+4. LSTM chart using actual and predicted data from csv file
+
+*[lstm](https://public.tableau.com/views/LSTMchart/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
 
 
@@ -81,6 +98,8 @@ Step2 : Created an application in Elastic Beanstalk and configured it as per the
 
 please click the following link to view the app.
 
+*[awsappelasticbeans]
+
 
 ## Requirements
 
@@ -89,7 +108,7 @@ click on the below lik for requirements.txt
 *[requirements'](app/requirements.txt)
 
 
-# ............................................The End.........................................................................
+# .................The End.....................
 
 
 
