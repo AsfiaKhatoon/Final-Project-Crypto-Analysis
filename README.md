@@ -1,4 +1,6 @@
 # Cryptocurrency Analysis Project
+![banner](images/readmebanner.PNG)
+
 ## Introduction
 The aim of this project is to have a basic understanding of the cryptocurrency, what is it? the History behind it/
 Then dive into some more analysis to find top ranking cryptos from a historica dataset .
@@ -10,7 +12,7 @@ For the prediction challenge of this project, i have tried prediction using Line
 Created a new conda environment 'Crypto-Analysis' to start with the project and added some necessary folders.
 the following folders were setup as suggested as I progressed with the project
 
-*[folder structure'](images/folder structure.PNG)
+![folder structure'](images/folder structure.PNG)
 
 
 
@@ -44,10 +46,10 @@ Following are the tableau files published in Tableau Public
 
 
 
-## Machile Learning
+## Machine Learning
 
 Machine learning model was created and test and train data was scaled and saved in the below folder
-*[test train](images/modelSAVE.PNG)
+![test train](images/modelSAVE.PNG)
 
 ##  Prediction
 
@@ -61,13 +63,13 @@ here are the .ipynb files  for reference
 ## HTML AND CSS
 The folowing  web pages were created to put everything together 
 
-* [html pages](images/htmlpages.PNG)
+![html pages](images/htmlpages.PNG)
 
 ## flask app
 flask app creation code 'app.py'
 
 
- * [flask app code](images/flaskapp.PNG)
+ ![flask app code](images/flaskapp.PNG)
 
 
 
@@ -80,7 +82,14 @@ Step2 : Created an application in Elastic Beanstalk and configured it as per the
 please click the following link to view the app.
 
 
-###............................The End.........................................................................
+## Requirements
+
+click on the below lik for requirements.txt
+
+*[requirements'](app/requirements.txt)
+
+
+# ............................................The End.........................................................................
 
 
 
