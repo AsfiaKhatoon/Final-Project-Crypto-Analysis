@@ -91,15 +91,15 @@ flask app creation code 'app.py'
 
 
 
-## AWS deplotyment
+## AWS Beanstalk deployment
 
-Step 1 : stored the commands into build.bat and run the file to crea a zip file
+Step 1 : stored the commands into build.bat and run the file to crea a zip file 
 
 Step2 : Created an application in Elastic Beanstalk and configured it as per the instuctions given.
 
 please click the following link to view the app.
 
-* [AWS app Elastic Beans]()
+* [AWS app Elastic Beanstalk](http://allthatglitters-env.eba-hpqmey4i.ap-southeast-2.elasticbeanstalk.com/index)
 
 
 ## Requirements
