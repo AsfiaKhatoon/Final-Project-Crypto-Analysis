@@ -1,3 +1,4 @@
+
 # Cryptocurrency Analysis Project
 ![banner](images/readmebanner.PNG)
 
@@ -12,7 +13,7 @@ For the prediction challenge of this project, i have tried prediction using Line
 Created a new conda environment 'Crypto-Analysis' to start with the project and added some necessary folders.
 the following folders were setup as suggested as I progressed with the project
 
-![folder structure'](images/folder structure.PNG)
+![folder structure](images/folder_structure.PNG)
 
 
 
@@ -32,9 +33,9 @@ Step 2 : On the AWS cloud, created a RDS and S3 bucket.
 
 Step 3 : Loaded the BTC.csv file into the S3 bucket
 
-Step4 : set up the necessary config file '_config.template.bat
+Step 4 : set up the necessary config file '_config.template.bat
 
-Step5 : Created tabels in postgres
+Step 5 : Created tabels in postgres
 
 Step 6 : tested data load locally
 
@@ -55,7 +56,7 @@ Following are the tableau files published in Tableau Public
 
 3. Correlation between some famous cryptocurrencies
 
-*[corr matrix](https://public.tableau.com/views/correlation_matrixdashboard/Dashboard3?:language=en-GB&:display_count=n&:origin=viz_share_link)
+* [Correlation matrix](https://public.tableau.com/views/correlation_matrixdashboard/Dashboard3?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
 4. LSTM chart using actual and predicted data from csv file
 
@@ -75,7 +76,7 @@ here are the .ipynb files  for reference
 
 * [linear regression](model/prediction_Linearreg.ipynb)
 
-*[LSTM](model/LSTM.ipynb)
+* [LSTM](model/LSTM.ipynb)
 
 ## HTML AND CSS
 The folowing  web pages were created to put everything together 
@@ -98,14 +99,14 @@ Step2 : Created an application in Elastic Beanstalk and configured it as per the
 
 please click the following link to view the app.
 
-* [awsappelasticbeans]()
+* [AWS app Elastic Beans]()
 
 
 ## Requirements
 
 click on the below lik for requirements.txt
 
-* [requirements'](app/requirements.txt)
+* [requirements.txt](app/requirements.txt)
 
 
 # .................The End.....................
